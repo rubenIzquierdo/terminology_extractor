@@ -105,7 +105,7 @@ optional arguments:
   -p PATTERNS_FILE   XML file with the input patterns
 ```
 
-The two parameteres are the database created in the previous step, and the XML file with the patterns. You will get in the output a list of matching texts, 
+The two parameters are the database created in the previous step, and the XML file with the patterns. You will get in the output a list of matching texts, 
 together with the global frequency in your database.
 
 
