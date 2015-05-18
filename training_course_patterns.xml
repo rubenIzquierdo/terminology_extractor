@@ -1,0 +1,105 @@
+<patterns>
+  <pattern len="4">
+    <p key="tokens" position="0" values="training"/>
+    <p key="tokens" position="1" values="course courses"/>
+    <p key="tokens" position="2" values="in on for at"/>
+    <p key="pos" position="3" values="nn"/>
+  </pattern>
+  <pattern len="5">
+    <p key="tokens" position="0" values="training"/>
+    <p key="tokens" position="1" values="course courses"/>
+    <p key="tokens" position="2" values="in on for at"/>
+    <p key="pos" position="3" values="nn"/>
+    <p key="pos" position="4" values="nn"/>
+  </pattern>  
+  <pattern len="6">
+    <p key="tokens" position="0" values="training"/>
+    <p key="tokens" position="1" values="course courses"/>
+    <p key="tokens" position="2" values="in on for at"/>
+    <p key="pos" position="3" values="nn"/>
+    <p key="pos" position="4" values="pp"/>
+    <p key="pos" position="5" values="nn"/>
+  </pattern>
+
+
+  <pattern len="5">
+    <p key="tokens" position="0" values="training"/>
+    <p key="tokens" position="1" values="course courses"/>
+    <p key="tokens" position="2" values="in on for at"/>
+    <p key="pos" position="3" values="dt"/>
+    <p key="pos" position="4" values="nn"/>
+  </pattern>
+  <pattern len="6">
+    <p key="tokens" position="0" values="training"/>
+    <p key="tokens" position="1" values="course courses"/>
+    <p key="tokens" position="2" values="in on for at"/>
+    <p key="pos" position="3" values="dt"/>
+    <p key="pos" position="4" values="nn"/>
+    <p key="pos" position="5" values="nn"/>
+  </pattern>
+  <pattern len="7">
+    <p key="tokens" position="0" values="training"/>
+    <p key="tokens" position="1" values="course courses"/>
+    <p key="tokens" position="2" values="in on for at"/>
+    <p key="pos" position="3" values="dt"/>
+    <p key="pos" position="4" values="nn"/>
+    <p key="pos" position="5" values="pp"/>
+    <p key="pos" position="6" values="nn"/>
+  </pattern>
+
+
+  <pattern len="5">
+    <p key="tokens" position="0" values="training"/>
+    <p key="tokens" position="1" values="course courses"/>
+    <p key="tokens" position="2" values="in on for at"/>
+    <p key="pos" position="3" values="jj"/>
+    <p key="pos" position="4" values="nn"/>
+  </pattern>
+ <pattern len="6">
+    <p key="tokens" position="0" values="training"/>
+    <p key="tokens" position="1" values="course courses"/>
+    <p key="tokens" position="2" values="in on for at"/>
+    <p key="pos" position="3" values="jj"/>
+    <p key="pos" position="4" values="nn"/>
+    <p key="pos" position="5" values="nn"/>
+  </pattern>
+  <pattern len="7">
+    <p key="tokens" position="0" values="training"/>
+    <p key="tokens" position="1" values="course courses"/>
+    <p key="tokens" position="2" values="in on for at"/>
+    <p key="pos" position="3" values="jj"/>
+    <p key="pos" position="4" values="nn"/>
+    <p key="pos" position="5" values="pp"/>
+    <p key="pos" position="6" values="nn"/>
+  </pattern>
+
+
+  <pattern len="6">
+    <p key="tokens" position="0" values="training"/>
+    <p key="tokens" position="1" values="course courses"/>
+    <p key="tokens" position="2" values="in on for at"/>
+    <p key="pos" position="3" values="dt"/>
+    <p key="pos" position="4" values="jj"/>
+    <p key="pos" position="5" values="nn"/>
+  </pattern>
+  <pattern len="7">
+    <p key="tokens" position="0" values="training"/>
+    <p key="tokens" position="1" values="course courses"/>
+    <p key="tokens" position="2" values="in on for at"/>
+    <p key="pos" position="3" values="dt"/>
+    <p key="pos" position="4" values="jj"/>
+    <p key="pos" position="5" values="nn"/>
+    <p key="pos" position="6" values="nn"/>
+  </pattern>
+  <pattern len="8">
+    <p key="tokens" position="0" values="training"/>
+    <p key="tokens" position="1" values="course courses"/>
+    <p key="tokens" position="2" values="in on for at"/>
+    <p key="pos" position="3" values="dt"/>
+    <p key="pos" position="4" values="jj"/>
+    <p key="pos" position="5" values="nn"/>
+    <p key="pos" position="6" values="pp"/>
+    <p key="pos" position="7" values="nn"/>
+  </pattern>
+</patterns>
+
